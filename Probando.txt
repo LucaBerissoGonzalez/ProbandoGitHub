@@ -2,9 +2,10 @@ estoy probando usar GitHub
 
 para saber usarlo en programación.
 
-Segundo Conflicto.
+Conflicto 4
 
-Primer Conflicto???
+Ahora es solo Rama1
 
 5to Conflicto Estamos todos locos
+
 
