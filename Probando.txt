@@ -1,7 +1,3 @@
-estoy probando usar GitHub
-
-para saber usarlo en programación.
-
 Conflicto 4
 
 Ahora es solo Rama1
