@@ -2,6 +2,7 @@ Conflicto 4
 
 Ahora es solo Rama1
 
-Rama1 si o si
+si o si rama2 conflicto
+
 
 
